@@ -1,22 +1,13 @@
-Welcome to Lumache's documentation!
+JUN88 เว็บไซต์พนันอันดับ 1 จากเอเชีย
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`JUN88 <https://jun88.legal/>`_ เป็นชื่อที่ได้รับการประเมินอย่างสูงในตลาดการพนันออนไลน์ในภูมิภาคเอเชีย ที่นี่ให้บริการการพนันและความบันเทิงออนไลน์ที่หลากหลายสำหรับผู้เล่น รวมถึง: การพนันกีฬา การพนันคาสิโน หวย เกมไพ่ ยิงปลา และอื่นๆ
+ข้อมูลติดต่อ:
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+เว็บไซต์: `https://jun88.legal/ <https://jun88.legal/>`_
 
-.. note::
+โทรศัพท์: 0855111777
 
-   This project is under active development.
+ที่อยู่: 999/9 ถนนพระรามที่ 1, กรุงเทพฯ
 
-Contents
---------
-
-.. toctree::
-
-   usage
-   api
+Hastag: #jun88 #linkvaojun88
